@@ -1,0 +1,9 @@
+server:
+  port: 9192
+
+notifyparam:
+  name: yanlingji
+  age: 28
+  map:
+    phone: 1239999
+    address: baiyue
